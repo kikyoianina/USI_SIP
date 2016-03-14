@@ -1,0 +1,8 @@
+indicator_id,IndicatorName,Measure,How_Calculated,SourceName,SourceDescription,
+155,Asthma Hospitalizations (Children 0 to 4 Yrs Old),Rate,Number of NYC resident children up to 4 years old hospitalized for asthma; divided by the population of children up to 4 years old; using NYC DOHMH intercensal estimates; expressed as cases per 10;000 residents.  A hospitalization is included if it has an ICD-9 principal diagnosis code of 493.,NYS SPARCS Hospitalization,New York State Statewide Planning and Research Cooperative System (SPARCS) Deidentified Hospital Discharge Data,
+365,Fine Particulate Matter (PM2.5),Mean,Air samples collected at specific NYCCAS monitoring sites along with information about emissions sources were incorporated into a statistical model that predicted pollutant concentrations at all locations in NYC for the specified time period.  The results were then assigned to the appropriate NYC neighborhood and averaged. In NYCCAS; fine particulate matter is measured in units of micrograms per cubic meter of air.,NYCCAS,New York City Community Air Survey,
+375,Nitrogen Dioxide (NO2),Mean,Air samples collected at specific NYCCAS monitoring sites along with information about emissions sources were incorporated into a statistical model that predicted pollutant concentrations at all locations in NYC for the specified time period.  The results were then assigned to the appropriate NYC neighborhood and averaged. The gaseous pollutants in NYCCAS are measured in units of parts per billion.,NYCCAS,New York City Community Air Survey,
+
+NYC Department of Health and Mental Hygiene
+Environment & Health Data Portal
+Available at: http://nyc.gov/health/tracking Accessed 03/13/2016

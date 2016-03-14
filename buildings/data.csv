@@ -1,0 +1,169 @@
+geo_entity_id,geo_entity_name,2011A04,2012A04,2013A04,2011A514,2012A514,2013A514,Leaks,Cracks,Broken,Mold,M_A04,M_A514
+101,Kingsbridge - Riverdale,56.1,65.2,41.6,30.5,27.7,43,27.4,19.5,1.7,8.4,54.3,33.73333333
+102,Northeast Bronx,128.7,135.9,124,60.5,57.3,67.6,22.3,18.2,6.3,8.9,129.5333333,61.8
+103,Fordham - Bronx Pk,126.9,131.6,137.6,61.4,69.3,73.3,31.6,26.1,6.2,18.7,132.0333333,68
+104,Pelham - Throgs Neck,139.8,153.9,131.6,62.4,66.6,55.3,26,20,6,14.4,141.7666667,61.43333333
+105,Crotona -Tremont,163.8,142.6,150.5,61.4,74.5,72.9,30.3,29,5.8,11.8,152.3,69.6
+106,High Bridge - Morrisania,157.6,164.5,188.7,64.3,75.2,79.4,29.3,29.3,9.4,11.8,170.2666667,72.96666667
+107,Hunts Point - Mott Haven,200.1,203.3,176.2,87.4,98.9,98.7,30.6,33,8.2,11.8,193.2,95
+201,Greenpoint,26.9,15.5,14.1,13.4,13.1,7.9,23.3,14.1,7.1,16,18.83333333,11.46666667
+202,Downtown - Heights - Slope,61,59.8,39,37.2,28.8,24.1,27.6,21.4,11.1,7.6,53.26666667,30.03333333
+203,Bedford Stuyvesant - Crown Heights,135.9,123.1,123.6,59.1,64.5,64.8,25.9,22.1,18.8,9.4,127.5333333,62.8
+204,East New York,104,113,105,46.1,47.9,57.4,20.4,22.5,16,10.9,107.3333333,50.46666667
+205,Sunset Park,38.9,26.3,22.9,13.4,14.6,21.6,19.1,19.4,6.9,7.6,29.36666667,16.53333333
+206,Borough Park,18.4,15.2,11.9,7.5,6,4.3,21.6,14.6,9.5,10.4,15.16666667,5.933333333
+207,East Flatbush - Flatbush,105.3,106.3,102.4,38.5,43.2,49.6,29.9,24.9,9.1,11.8,104.6666667,43.76666667
+208,Canarsie - Flatlands,83.7,79.2,84.2,26.6,32.4,31.1,18.2,13.7,5.7,8.2,82.36666667,30.03333333
+209,Bensonhurst - Bay Ridge,19.9,18.8,11.2,6.2,9.6,4.7,16.5,11.3,4.1,13,16.63333333,6.833333333
+210,Coney Island - Sheepshead Bay,17.9,22.2,19.7,10,11.7,9.4,15.8,10.6,4.8,10,19.93333333,10.36666667
+211,Williamsburg - Bushwick,110.9,99.7,73.5,58.9,65.9,51.9,27.5,21.4,25,12.2,94.7,58.9
+301,Washington Heights,59.7,56.9,48.5,27.9,29.2,33.1,38,26.4,6.6,17.2,55.03333333,30.06666667
+302,Central Harlem - Morningside Heights,145.1,145.2,125,57.6,72,72.3,31.9,24.1,18,9.1,138.4333333,67.3
+303,East Harlem,135.3,133.3,137.1,80.8,72.6,84.5,35.8,33.2,5.4,7,135.2333333,79.3
+304,Upper West Side,28.8,22.3,29.5,23.6,14.6,10.3,21.3,10.9,2.5,6.9,26.86666667,16.16666667
+305,Upper East Side,28,28.7,23,10.6,9.8,7.9,13.1,10.6,3.1,5.8,26.56666667,9.433333333
+306,Chelsea - Clinton,29.9,28.9,21,18.1,28.5,12.5,17.2,13.5,5.1,3.5,26.6,19.7
+307,Gramercy Park - Murray Hill,19,26.5,32.4,,12.6,14.7,14.1,8.3,2.7,5.8,25.96666667,13.65
+308,Greenwich Village - SoHo,,19.1,,,,,14.9,11.3,2.6,3.5,19.1,
+309,Union Square - Lower East Side,53.9,56.4,39.1,16.1,20.6,22.4,18.8,17.5,2.3,6,49.8,19.7
+310,Lower Manhattan,26,,,,,,15.4,12,2.5,6,26,
+401,Long Island City - Astoria,33.7,31.3,22.3,23.5,17,18.5,16.5,15.6,5.1,6.9,29.1,19.66666667
+402,West Queens,34,43.1,30.1,12.7,15.7,15.7,18.7,11.8,3.3,10.8,35.73333333,14.7
+403,Flushing - Clearview,35.1,32.5,29.8,15.5,10.3,13.9,8.6,4.6,1.5,5.4,32.46666667,13.23333333
+404,Bayside - Little Neck,17,43.2,27.7,7.4,13.7,8.3,8.1,4.7,0,,29.3,9.8
+405,Ridgewood - Forest Hills,60.4,46.9,29.5,21.6,23.7,13.5,16.5,11.3,1.1,7.1,45.6,19.6
+406,Fresh Meadows,37.9,22.5,39.2,20.3,18.2,18.9,14.3,8.9,1.1,,33.2,19.13333333
+407,Southwest Queens,63.3,79.1,58.3,17.4,23.8,21.5,12.3,7.3,4.1,8.6,66.9,20.9
+408,Jamaica,86,82.7,88.2,28.5,24.1,31,18.3,9.6,8.5,11.6,85.63333333,27.86666667
+409,Southeast Queens,83.2,78.4,67.9,27.4,37.4,35.3,13.5,6.7,5.3,8.9,76.5,33.36666667
+410,Rockaways,70.2,45.4,49,34.3,23.9,23.2,21,7.5,5.2,13.9,54.86666667,27.13333333
+501,Port Richmond,65.5,65.8,56.6,24.4,34.6,29,9.4,5.8,10.5,9.5,62.63333333,29.33333333
+502,Stapleton - St. George,39,51.2,46.1,18.5,15.5,24.4,8.6,5.8,7.9,9.5,45.43333333,19.46666667
+503,Willowbrook,16.4,29.1,25.1,8,7.1,,7.8,5.7,5.4,3,23.53333333,7.55
+504,South Beach - Tottenville,12.5,14.6,16.7,9.4,9.5,9.1,5.2,1.2,1.3,3,14.6,9.333333333
+101,Kingsbridge - Riverdale,,,,,,,,,,,,
+102,Northeast Bronx,,,,,,,,,,,,
+103,Fordham - Bronx Pk,,,,,,,,,,,,
+104,Pelham - Throgs Neck,,,,,,,,,,,,
+105,Crotona -Tremont,,,,,,,,,,,,
+106,High Bridge - Morrisania,,,,,,,,,,,,
+107,Hunts Point - Mott Haven,,,,,,,,,,,,
+201,Greenpoint,,,,,,,,,,,,
+202,Downtown - Heights - Slope,,,,,,,,,,,,
+203,Bedford Stuyvesant - Crown Heights,,,,,,,,,,,,
+204,East New York,,,,,,,,,,,,
+205,Sunset Park,,,,,,,,,,,,
+206,Borough Park,,,,,,,,,,,,
+207,East Flatbush - Flatbush,,,,,,,,,,,,
+208,Canarsie - Flatlands,,,,,,,,,,,,
+209,Bensonhurst - Bay Ridge,,,,,,,,,,,,
+210,Coney Island - Sheepshead Bay,,,,,,,,,,,,
+211,Williamsburg - Bushwick,,,,,,,,,,,,
+301,Washington Heights,,,,,,,,,,,,
+302,Central Harlem - Morningside Heights,,,,,,,,,,,,
+303,East Harlem,,,,,,,,,,,,
+304,Upper West Side,,,,,,,,,,,,
+305,Upper East Side,,,,,,,,,,,,
+306,Chelsea - Clinton,,,,,,,,,,,,
+307,Gramercy Park - Murray Hill,,,,,,,,,,,,
+308,Greenwich Village - SoHo,,,,,,,,,,,,
+309,Union Square - Lower East Side,,,,,,,,,,,,
+310,Lower Manhattan,,,,,,,,,,,,
+401,Long Island City - Astoria,,,,,,,,,,,,
+402,West Queens,,,,,,,,,,,,
+403,Flushing - Clearview,,,,,,,,,,,,
+404,Bayside - Little Neck,,,,,,,,,,,,
+405,Ridgewood - Forest Hills,,,,,,,,,,,,
+406,Fresh Meadows,,,,,,,,,,,,
+407,Southwest Queens,,,,,,,,,,,,
+408,Jamaica,,,,,,,,,,,,
+409,Southeast Queens,,,,,,,,,,,,
+410,Rockaways,,,,,,,,,,,,
+501,Port Richmond,,,,,,,,,,,,
+502,Stapleton - St. George,,,,,,,,,,,,
+503,Willowbrook,,,,,,,,,,,,
+504,South Beach - Tottenville,,,,,,,,,,,,
+101,Kingsbridge - Riverdale,,,,,,,,,,,,
+102,Northeast Bronx,,,,,,,,,,,,
+103,Fordham - Bronx Pk,,,,,,,,,,,,
+104,Pelham - Throgs Neck,,,,,,,,,,,,
+105,Crotona -Tremont,,,,,,,,,,,,
+106,High Bridge - Morrisania,,,,,,,,,,,,
+107,Hunts Point - Mott Haven,,,,,,,,,,,,
+201,Greenpoint,,,,,,,,,,,,
+202,Downtown - Heights - Slope,,,,,,,,,,,,
+203,Bedford Stuyvesant - Crown Heights,,,,,,,,,,,,
+204,East New York,,,,,,,,,,,,
+205,Sunset Park,,,,,,,,,,,,
+206,Borough Park,,,,,,,,,,,,
+207,East Flatbush - Flatbush,,,,,,,,,,,,
+208,Canarsie - Flatlands,,,,,,,,,,,,
+209,Bensonhurst - Bay Ridge,,,,,,,,,,,,
+210,Coney Island - Sheepshead Bay,,,,,,,,,,,,
+211,Williamsburg - Bushwick,,,,,,,,,,,,
+301,Washington Heights,,,,,,,,,,,,
+302,Central Harlem - Morningside Heights,,,,,,,,,,,,
+303,East Harlem,,,,,,,,,,,,
+304,Upper West Side,,,,,,,,,,,,
+305,Upper East Side,,,,,,,,,,,,
+306,Chelsea - Clinton,,,,,,,,,,,,
+307,Gramercy Park - Murray Hill,,,,,,,,,,,,
+308,Greenwich Village - SoHo,,,,,,,,,,,,
+309,Union Square - Lower East Side,,,,,,,,,,,,
+310,Lower Manhattan,,,,,,,,,,,,
+401,Long Island City - Astoria,,,,,,,,,,,,
+402,West Queens,,,,,,,,,,,,
+403,Flushing - Clearview,,,,,,,,,,,,
+404,Bayside - Little Neck,,,,,,,,,,,,
+405,Ridgewood - Forest Hills,,,,,,,,,,,,
+406,Fresh Meadows,,,,,,,,,,,,
+407,Southwest Queens,,,,,,,,,,,,
+408,Jamaica,,,,,,,,,,,,
+409,Southeast Queens,,,,,,,,,,,,
+410,Rockaways,,,,,,,,,,,,
+501,Port Richmond,,,,,,,,,,,,
+502,Stapleton - St. George,,,,,,,,,,,,
+503,Willowbrook,,,,,,,,,,,,
+504,South Beach - Tottenville,,,,,,,,,,,,
+101,Kingsbridge - Riverdale,,,,,,,,,,,,
+102,Northeast Bronx,,,,,,,,,,,,
+103,Fordham - Bronx Pk,,,,,,,,,,,,
+104,Pelham - Throgs Neck,,,,,,,,,,,,
+105,Crotona -Tremont,,,,,,,,,,,,
+106,High Bridge - Morrisania,,,,,,,,,,,,
+107,Hunts Point - Mott Haven,,,,,,,,,,,,
+201,Greenpoint,,,,,,,,,,,,
+202,Downtown - Heights - Slope,,,,,,,,,,,,
+203,Bedford Stuyvesant - Crown Heights,,,,,,,,,,,,
+204,East New York,,,,,,,,,,,,
+205,Sunset Park,,,,,,,,,,,,
+206,Borough Park,,,,,,,,,,,,
+207,East Flatbush - Flatbush,,,,,,,,,,,,
+208,Canarsie - Flatlands,,,,,,,,,,,,
+209,Bensonhurst - Bay Ridge,,,,,,,,,,,,
+210,Coney Island - Sheepshead Bay,,,,,,,,,,,,
+211,Williamsburg - Bushwick,,,,,,,,,,,,
+301,Washington Heights,,,,,,,,,,,,
+302,Central Harlem - Morningside Heights,,,,,,,,,,,,
+303,East Harlem,,,,,,,,,,,,
+304,Upper West Side,,,,,,,,,,,,
+305,Upper East Side,,,,,,,,,,,,
+306,Chelsea - Clinton,,,,,,,,,,,,
+307,Gramercy Park - Murray Hill,,,,,,,,,,,,
+308,Greenwich Village - SoHo,,,,,,,,,,,,
+309,Union Square - Lower East Side,,,,,,,,,,,,
+310,Lower Manhattan,,,,,,,,,,,,
+401,Long Island City - Astoria,,,,,,,,,,,,
+402,West Queens,,,,,,,,,,,,
+403,Flushing - Clearview,,,,,,,,,,,,
+404,Bayside - Little Neck,,,,,,,,,,,,
+405,Ridgewood - Forest Hills,,,,,,,,,,,,
+406,Fresh Meadows,,,,,,,,,,,,
+407,Southwest Queens,,,,,,,,,,,,
+408,Jamaica,,,,,,,,,,,,
+409,Southeast Queens,,,,,,,,,,,,
+410,Rockaways,,,,,,,,,,,,
+501,Port Richmond,,,,,,,,,,,,
+502,Stapleton - St. George,,,,,,,,,,,,
+503,Willowbrook,,,,,,,,,,,,
+504,South Beach - Tottenville,,,,,,,,,,,,
